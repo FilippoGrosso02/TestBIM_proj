@@ -1,0 +1,16 @@
+{
+   'id': 'EBR2DE89CVPRLWKH8D', 
+   'dic': {'AdditionalInfo': {'PowerSupply': '380-415V', 
+  'RefrigerantType': 'R410A'}, 
+  'AssessmentDate': '2024-10-01', 
+  'Certifications': 'CE', 
+  'DeviceType': 'Air Conditioning Unit', 
+  'InstallationDate': 'RXYQ72TAYMU', 
+  'Location': 'Building A, Rooftop', 
+  'Manufacturer': 'Daikin', 
+  'Model': 'RXYQ72TAYMU', 
+  'ModelNumber': 'RXYQ72TAYMU', 
+  'NextAssessmentDate': '2024-10-01', 
+  'ProductionYear': '2021', 
+  'SerialNumber': 'E1234567'}
+}

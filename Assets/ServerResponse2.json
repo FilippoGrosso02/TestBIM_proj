@@ -1,0 +1,18 @@
+{
+  "AdditionalInfo": {
+    "CoolingCapacity": "72,000 BTU/h",
+    "PowerSupply": "208-230V",
+    "RefrigerantType": "R-410A"
+  },
+  "AssessmentDate": "2023-01-15",
+  "Certifications": "UL",
+  "DeviceType": "Air Conditioner",
+  "InstallationDate": "2020-05-10",
+  "Location": "Building A, Room 301",
+  "Manufacturer": "Daikin",
+  "Model": "RXYQ72T",
+  "ModelNumber": "RXYQ72T",
+  "NextAssessmentDate": "2024-01-15",
+  "ProductionYear": "2020",
+  "SerialNumber": "E0001"
+}
